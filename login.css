@@ -1,0 +1,304 @@
+/* Frame 5 */
+
+position: relative;
+width: 393px;
+height: 808px;
+
+background: #FFFFFF;
+
+
+/* upperBar */
+
+position: absolute;
+width: 393px;
+height: 283px;
+left: 0px;
+top: -4px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 393px;
+height: 189.53px;
+left: 0px;
+top: 1.19px;
+
+background: #EEFC5E;
+
+
+/* Polygon 2 */
+
+position: absolute;
+width: 82px;
+height: 88.27px;
+left: 311px;
+top: 102.45px;
+
+background: #FFFFFF;
+
+
+/* Polygon 3 */
+
+position: absolute;
+width: 82px;
+height: 88.27px;
+left: 82.01px;
+top: 278.99px;
+
+background: #EEFC5E;
+transform: matrix(-1, 0, 0, -1, 0, 0);
+
+
+/* dish */
+
+position: absolute;
+width: 61px;
+height: 72.7px;
+left: 136px;
+top: 23.26px;
+
+background: url(dish.png);
+opacity: 0.12;
+
+
+/* restaurant */
+
+position: absolute;
+width: 58px;
+height: 75.29px;
+left: 238px;
+top: 102.45px;
+
+background: url(restaurant.png);
+opacity: 0.12;
+
+
+/* fast-food */
+
+position: absolute;
+width: 53px;
+height: 68.8px;
+left: 312px;
+top: 15.47px;
+
+background: url(fast-food.png);
+opacity: 0.12;
+
+
+/* food (1) */
+
+position: absolute;
+width: 81px;
+height: 116.83px;
+left: 1px;
+top: -4px;
+
+background: url(food (1).png);
+mix-blend-mode: plus-darker;
+opacity: 0.12;
+
+
+/* diet */
+
+position: absolute;
+width: 65px;
+height: 77.89px;
+left: 90px;
+top: 112.83px;
+
+background: url(diet.png);
+opacity: 0.12;
+
+
+/* Login */
+
+position: absolute;
+width: 102px;
+height: 20px;
+left: 146px;
+top: 63px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 20px;
+/* identical to box height, or 62% */
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+mix-blend-mode: multiply;
+
+
+/* Access Account */
+
+position: absolute;
+width: 157px;
+height: 20px;
+left: 123px;
+top: 100px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 3D_Square_with_Facebook_Logo */
+
+position: absolute;
+width: 63px;
+height: 55px;
+left: 92px;
+top: 272px;
+
+background: url(3D_Square_with_Facebook_Logo.jpg);
+
+
+/* m011t0447_b_social_sign_18sep22 */
+
+position: absolute;
+width: 56px;
+height: 55px;
+left: 192px;
+top: 272px;
+
+background: url(m011t0447_b_social_sign_18sep22);
+border-radius: 6px;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 364px;
+height: 97px;
+left: 10px;
+top: 401px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 351px;
+height: 55px;
+left: 23px;
+top: 443px;
+
+background: #D9D9D9;
+border-radius: 100px;
+
+
+/* User name */
+
+position: absolute;
+width: 88px;
+height: 20px;
+left: 10px;
+top: 401px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 361px;
+height: 98px;
+left: 10px;
+top: 532px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 351px;
+height: 51px;
+left: 20px;
+top: 579px;
+
+background: #D9D9D9;
+border-radius: 100px;
+
+
+/* Password */
+
+position: absolute;
+width: 77px;
+height: 20px;
+left: 10px;
+top: 532px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 135px;
+height: 34px;
+left: 124px;
+top: 727px;
+
+background: #8FD0FC;
+border-radius: 200px;
+
+
+/* Login */
+
+position: absolute;
+width: 42px;
+height: 16px;
+left: 171px;
+top: 736px;
+
+/* Single Line/Body Base
+
+Used for any text element where you need 100% line height. For example, an input field, a label.
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+text-align: center;
+
+color: #FFFFFF;
+
